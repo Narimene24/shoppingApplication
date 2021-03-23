@@ -1,6 +1,8 @@
 # klausse
 
-A new Flutter application.
+Shopping Application 
+Programming Langage : DART (Flutter)
+
 
 ## Getting Started
 
